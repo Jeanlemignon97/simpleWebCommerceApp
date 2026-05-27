@@ -67,6 +67,6 @@ L'application démarrera par défaut sur le port **8083** (configuré dans `appl
 ### Console H2
 Vous pouvez accéder à la console de la base de données H2 en mémoire à l'adresse suivante :
 * **URL :** `http://localhost:8083/h2-console`
-* **JDBC URL :** `jdbc:h2:mem:jeanlemignon`
+* **JDBC URL :** `jdbc:h2:mem:Test`
 * **Nom d'utilisateur :** `sa`
 * **Mot de passe :** *(vide)*
