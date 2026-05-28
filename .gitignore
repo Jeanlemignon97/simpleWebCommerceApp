@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Sensitive Configuration ###
+# Copy application.properties.example to application.properties and fill in your credentials
+src/main/resources/application.properties
